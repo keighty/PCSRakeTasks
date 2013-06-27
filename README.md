@@ -10,7 +10,7 @@ $ gem install rake
 ```
 
 2. Write your tasks into a "Rakefile"
-```
+```ruby
 task :greet do
   puts "Hello World"
 end
