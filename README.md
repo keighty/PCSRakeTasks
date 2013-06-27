@@ -9,10 +9,13 @@ Make is a utility that automatically builds executable programs and libraries fr
 $ gem install rake
 ```
 
-2. Write your tasks into a "Rakefile"
+2. Write your tasks into a file named Rakefile
 ```ruby
+require "rubygems"
+require 'rake'
+
 task :greet do
-  puts "Hello World"
+    puts "Hello World"
 end
 ```
 

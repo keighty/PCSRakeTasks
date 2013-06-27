@@ -1,8 +1,6 @@
 require "rubygems"
 require 'rake'
 
-SOURCE = "."
-
 desc "greet the user"
 task :greet do
   puts "hello world!"
