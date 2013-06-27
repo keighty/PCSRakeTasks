@@ -13,9 +13,8 @@ $ gem install rake
 ```ruby
 require "rubygems"
 require 'rake'
-
 task :greet do
-    puts "Hello World"
+  puts "Hello World"
 end
 ```
 
