@@ -24,4 +24,4 @@ Hello World!
 
 4. Celebrate with a placekitten:
 
-[](http://placekitten.com/g/200/300)
+![placekitten.com(http://placekitten.com/g/200/300)](http://placekitten.com/g/200/300)
